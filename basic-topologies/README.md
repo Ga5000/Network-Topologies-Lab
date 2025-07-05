@@ -10,7 +10,8 @@ This folder contains Cisco Packet Tracer representations of fundamental network 
 
 **File:** `star-topology.png`  
 
-![Star Topology](/star/star-topology.png)
+<img src="https://github.com/Ga5000/Network-Topologies-Lab/blob/main/basic-topologies/star/star-topology.png" width="400">
+
 **Description:**  
 A central switch connects to all the end devices (PCs and router). This design ensures that each device has a dedicated communication line to the switch.
 
@@ -25,7 +26,7 @@ A central switch connects to all the end devices (PCs and router). This design e
 
 **File:** `tree-topology.png`  
 
-![Star Topology](/tree/tree-topology.png)
+<img src="https://github.com/Ga5000/Network-Topologies-Lab/blob/main/basic-topologies/tree/tree-topology.png" width="400">
 
 **Description:**  
 A hierarchical layout combining characteristics of both star and bus topologies. The main switch connects to other switches, which in turn connect to PCs.
@@ -41,7 +42,7 @@ A hierarchical layout combining characteristics of both star and bus topologies.
 
 **File:** `hybrid-star-star-topology.png`  
 
-![Star Topology](/hybrid/hybrid-star-star-topology.png)
+<img src="https://github.com/Ga5000/Network-Topologies-Lab/blob/main/basic-topologies/hybrid/hybrid-star-star-topology.png" width="400">
 
 
 **Description:**  
@@ -58,7 +59,7 @@ A hybrid topology combining two separate star topologies. Each star connects to 
 
 **File:** `point-to-point-topology.png`  
 
-![Star Topology](/point-to-point/point-to-point-topology.png)
+<img src="https://github.com/Ga5000/Network-Topologies-Lab/blob/main/basic-topologies/point-to-point/point-to-point-topology.png" width="400">
 
 **Description:**  
 A direct connection between two routers, each serving a small network. Typically used for WAN links or dedicated communication between two locations.
